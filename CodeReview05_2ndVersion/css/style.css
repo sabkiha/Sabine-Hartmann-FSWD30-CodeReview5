@@ -20,13 +20,6 @@ body {
     top: 120px;
     height: 850px;
 }
-.overlay {
-    position: absolute;
-    top: 120px;
-    width: 99%;
-    background-color: rgba(123,35,137, 0.3);
-    height: 138%;
-}
 
 .welcome p {
     position: absolute;
